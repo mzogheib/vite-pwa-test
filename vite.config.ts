@@ -4,8 +4,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/vite-pwa-test/',
   plugins: [react(), VitePWA({
-    base: '/vite-pwa-test',
     registerType: 'autoUpdate',
     injectRegister: false,
 
