@@ -1,5 +1,6 @@
 {
   "name": "vite-pwa-test",
+  "homepage": "https://mzogheib.github.io/vite-pwa-test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
